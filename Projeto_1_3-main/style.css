@@ -1,0 +1,21 @@
+h2{
+    color:darkred;
+}
+body{
+    background-color: darkblue;
+    color: chartreuse;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+header{
+    border-bottom: 1px solid white;
+}
+footer{
+    border-top:1px solid aqua;
+}
+#nome-usuario[
+    font-weight: bold;
+]
+.texto-ingles{
+    font-style: italic;
+}
